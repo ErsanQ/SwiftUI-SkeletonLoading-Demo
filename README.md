@@ -26,8 +26,8 @@ Open the project in Xcode and run on any simulator.
 
 ---
 ## Preview
-![preview](screenshot1.png)
-![preview](screenshot2.png)
-![preview](screenshot3.png)
+![preview](Screenshot1.png)
+![preview](Screenshot2.png)
+![preview](Screenshot3.png)
 
 Made with ❤️ to practice modern iOS UI patterns.
